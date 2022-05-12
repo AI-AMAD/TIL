@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "트랜잭션"
-date: 2022-05-12 14:00:00 -0500
+title: "트랜잭션(Transaction)이란??"
+date: 2022-05-12
 categories: [데이터베이스]
 ---
 ## 트랜잭션
