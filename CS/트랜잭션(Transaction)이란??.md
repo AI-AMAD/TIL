@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "트랜잭션"
-date: yyyy-mm-dd hh:mm:ss -0500
+date: 2022-05-12 14:00:00 -0500
 categories: [데이터베이스]
 ---
 ## 트랜잭션
